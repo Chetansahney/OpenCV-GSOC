@@ -1,1 +1,1 @@
-# OpenCV-GSOC
+# GSOC
